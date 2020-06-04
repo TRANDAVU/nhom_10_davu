@@ -1,0 +1,1 @@
+Đơn hàng của bạn đã được xác thực,cảm ơn bạn đã đặt hàng 

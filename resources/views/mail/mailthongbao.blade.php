@@ -1,0 +1,1 @@
+yêu cầu mở shop {{$shop}} đã chấp nhận chúng tôi rất vui được hợp tác.
